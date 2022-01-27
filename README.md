@@ -1,5 +1,5 @@
 # pdf-annotate.js 
-## Customized version of https://github.com/instructure/pdf-annotate.js/ (since that is no longer maintained)
+### Customized version of the pdf annotation engine originally available under https://github.com/instructure/pdf-annotate.js/ by @aaronshaf
 
 [![build status](https://img.shields.io/travis/instructure/pdf-annotate.js.svg?style=flat-square)](https://travis-ci.org/instructure/pdf-annotate.js)
 [![code coverage](https://img.shields.io/coveralls/instructure/pdf-annotate.js.svg?style=flat-square)](https://coveralls.io/r/instructure/pdf-annotate.js)
