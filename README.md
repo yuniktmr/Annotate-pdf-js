@@ -49,8 +49,8 @@ See more [examples](https://github.com/instructure/pdf-annotate.js/blob/master/w
 
 ```bash
 # clone the repo
-$ git clone https://github.com/instructure/pdf-annotate.js.git
-$ cd pdf-annotate.js
+$ git clone https://github.com/yuniktmr/Annotate-pdf-js.git
+$ cd Annotate-pdf.js
 
 # intall dependencies
 $ npm install
